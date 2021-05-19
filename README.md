@@ -6,8 +6,8 @@
 
 ## 效果截图
 
--   [演示网站](https://vijay.top//demo/Music-Vue.html)
+-   [演示网站](https://vijay.top//demo/Music-Vue)
 
 ![](src/images/img-1.png)
 
-![](src/images/img-2.png);dddddd
+![](src/images/img-2.png)
