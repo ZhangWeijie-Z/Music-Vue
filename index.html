@@ -36,6 +36,7 @@
 				<div class="content-img">
 					<input type="button" :value="value" @click="change" v-show="btnShow" />
 					<div class="play-1 player_con" :class="{playing:isPlaying}">
+						<img src="./src/images/player-bar.png" class="player-bar disc" />
 						<a href="javascript:;">
 							<img :src="musicImg" class="music-img disc autoRotate" />
 						</a>
